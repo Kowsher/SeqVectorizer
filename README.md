@@ -29,4 +29,10 @@ vec.get_features()
 
 In our experiment, we incorporated three popular datasets, i.e., Amazone Food Review4, Amazon Product Review5 and IMBD Movie and compared with existing popular algorithms like wor2vec, fasstext, glove, tf-idf
 
+![Alt text](https://github.com/Kowsher/SeqVectorizer/blob/main/amazon.png?raw=true "Title")
+
+![Alt text](https://github.com/Kowsher/SeqVectorizer/blob/main/amazon6.png?raw=true "Title")
+
+![Alt text](https://github.com/Kowsher/SeqVectorizer/blob/main/imdb.png?raw=true "Title")
+
 
